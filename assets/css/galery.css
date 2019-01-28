@@ -1,0 +1,59 @@
+h1{
+  font-family: sans-serif;
+  margin-left: 30px;
+}
+
+.card {
+    display: inline-block;
+    width: 20rem;
+    margin-left: 30px;
+}
+.card {
+    position: static;
+    display: -ms-flexbox;
+    display: flex;
+    display: inline-table;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+.lol1{
+  width: 260px;
+}
+.lol2{
+  height: 205px;
+  width: 300px;
+}
+.card-body1{
+  height: 90px;
+}
+
+.lol3{
+  height: 205px;
+  width: 300px;
+}
+
+.card-body2{
+  height: 90px;
+}
+
+.lol4{
+  width: 260px;
+}
+
+.lol5{
+  width: 190px;
+}
+
+.g2{
+  width: 300px;
+}
