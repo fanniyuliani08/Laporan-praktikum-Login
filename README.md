@@ -4,7 +4,7 @@ Laporan praktikum Login
 
 ![alt_text](https://github.com/fanniyuliani08/Laporan-praktikum-Login/blob/master/data%20diri.PNG)
 
-![alt_text](https://github.com/fanniyuliani08/Laporan-praktikum-Login/blob/master/data pembeli.PNG)
+![alt_text](https://github.com/fanniyuliani08/Laporan-praktikum-Login/blob/master/data%20pembeli.PNG)
 
 ![alt_text](https://github.com/fanniyuliani08/Laporan-praktikum-Login/blob/master/event.PNG)
 
